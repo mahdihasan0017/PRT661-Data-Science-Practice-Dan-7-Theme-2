@@ -1,0 +1,7 @@
+1. Insert every student's real name/ID.
+2. Add the accessible Jira URL.
+3. Give each deliverable an owner, reviewer, due date, dependency, test and definition of done.
+4. Link Jira to GitHub issues/branches/commits/PRs.
+5. Record approvals, scope changes, blockers and escalation.
+6. Ensure meaningful evidence for every member.
+These records must not be fabricated.

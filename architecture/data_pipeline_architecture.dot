@@ -1,0 +1,30 @@
+digraph Potato_data_pipeline {
+	bgcolor=white dpi=200 nodesep=0.4 rankdir=LR ranksep=0.5 splines=ortho
+	node [fontname=Arial fontsize=10 margin="0.14,0.10" shape=box style=rounded]
+	src [label="Pinned PlantVillage
++ untouched PlantDoc"]
+	audit [label="Counts / provenance /
+leaf-group integrity"]
+	split [label="Group-disjoint
+train/val/test split"]
+	prep [label="224×224 RGB +
+train-only augmentation"]
+	models [label="Logistic + PotatoCNN +
+MobileNetV2"]
+	lock [label="Validation checkpoint +
+threshold locking"]
+	int [label="Frozen PlantVillage
+internal test"]
+	ext [label="Untouched PlantDoc
+external test"]
+	store [label="Versioned tables / figures /
+models / manifest"]
+	src -> audit
+	audit -> split
+	split -> prep
+	prep -> models
+	models -> lock
+	lock -> int
+	int -> ext
+	ext -> store
+}

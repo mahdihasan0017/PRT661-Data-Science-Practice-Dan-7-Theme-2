@@ -1,0 +1,17 @@
+﻿task_id,milestone,task,owner,status,evidence
+POT-01,M1,Repository setup and pin PlantVillage/PlantDoc sources,Member 1,Done,artifacts/documentation/DATA_PROVENANCE_AND_LICENSES.txt
+POT-02,M1,Inventory and provenance audit,Member 1,Done,artifacts/tables/class_distribution.csv
+POT-03,M2,Construct official leaf-group IDs and overlap audit,Member 2,Done,artifacts/tables/leaf_group_overlap_audit.csv
+POT-04,M2,Create group-disjoint train/validation/test split,Member 2,Done,artifacts/tables/split_summary.csv
+POT-05,M2,Preprocessing and train-only augmentation,Member 2,Done,artifacts/tables/custom_cnn_configuration.csv
+POT-06,M3,Train logistic baseline,Member 3,Done,artifacts/models/baseline_logistic.joblib
+POT-07,M3,Train PotatoCNN,Member 3,Done,artifacts/models/best_potato_cnn.pt
+POT-08,M3,Train/fine-tune MobileNetV2,Member 3,Done,artifacts/models/best_mobilenet_v2.pt
+POT-09,M4,Lock validation checkpoints and thresholds,Member 4,Done,artifacts/tables/validation_threshold_comparison.csv
+POT-10,M4,Frozen PlantVillage internal test,Member 4,Done,artifacts/tables/final_model_comparison.csv
+POT-11,M4,Untouched PlantDoc external evaluation,Member 4,Done,artifacts/tables/plantdoc_external_metrics.csv
+POT-12,M4,Calibration and robustness analyses,Member 4,Done,artifacts/tables/robustness_results.csv
+POT-13,M4,"Ablation, segmentation, Grad-CAM and error review",Member 4,Done,artifacts/tables/ablation_results.csv
+POT-14,M4,Efficiency profiling,Member 4,Done,artifacts/tables/model_efficiency.csv
+POT-15,M5,"Final report, diagrams and reproducibility package",Member 5,Done,assessment_reports/Final_Assessment_Report.pdf
+POT-16,M5,Add genuine project-board/commit collaboration evidence,Member 5,Needs team input,project_management/COLLABORATION_EVIDENCE.md

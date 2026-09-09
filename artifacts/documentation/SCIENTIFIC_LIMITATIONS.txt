@@ -1,0 +1,1 @@
+Binary Early-vs-Late only; no Healthy/Other/Unknown class. PlantVillage is controlled. PlantDoc is small, internet-scraped exploratory evidence. Public labels may contain errors. Grad-CAM is not causal pathology. Do not retune on test. GPU timing is runtime-specific. Do not use as diagnosis or treatment advice.

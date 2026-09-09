@@ -1,0 +1,9 @@
+Python: 3.13.15 (main, Aug  6 2026, 11:06:23) [GCC 11.4.0]
+PyTorch: 2.11.0+cu128
+Torchvision: 0.26.0+cu128
+CUDA: True / 12.8
+Platform: Linux-6.6.122+-x86_64-with-glibc2.35
+Device: cuda
+PlantVillage: 7f7ecc7e1eaca78107e3affe7cb5abd9427e139a
+PlantDoc: 5467f6012d78d1c446145d5f582da6096f852ae8
+Seed: 42

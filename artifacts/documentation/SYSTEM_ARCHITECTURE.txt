@@ -1,0 +1,2 @@
+Pinned sources -> ingestion/audit -> immutable raw data -> group-aware split -> train-only augmentation -> baseline/custom/transfer models -> validation locks -> test/external evaluation -> versioned evidence -> responsible interface.
+Production extension: authenticated upload API, validation, model registry, encrypted transport, minimal retention, audit logs, drift monitoring and reviewed promotion.

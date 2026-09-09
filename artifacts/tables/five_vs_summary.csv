@@ -1,0 +1,6 @@
+V,Project-specific description
+Volume,"2,000 images; 1,000/class; 34.71 MiB; 256x256: 2000; .jpg: 2000"
+Velocity,Static pinned training corpus; a future service would receive individual uploads on demand.
+Variety,"Two disease labels, RGB appearances/orientations, segmented variants, and less-controlled PlantDoc imagery."
+Veracity,"Public labels; corruption, hashes, leaf-group leakage, balance, quality and domain limits are audited."
+Value,Preliminary Early-vs-Late triage and research with probabilities and escalation—not diagnosis/treatment.

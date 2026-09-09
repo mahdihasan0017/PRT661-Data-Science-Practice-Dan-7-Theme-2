@@ -1,0 +1,15 @@
+Feedback_item,Status,Evidence_or_action
+Distinctiveness,Implemented,Baseline + custom + MobileNetV2; XAI; robustness; external test; interface
+Users/value,Documented,Opening framing section
+5Vs,Implemented,five_vs_summary.csv
+Architecture,Documented,End-to-end architecture section
+Technical detail,Implemented,custom_cnn_configuration.csv
+Baseline,Implemented,baseline_logistic_test_metrics.csv
+Leaf leakage,Corrected,leaf_group_overlap_audit.csv
+Metric semantics,Corrected,Late=positive and FN/FP interpretation
+Conditional weighting,Implemented,Only if imbalance ratio >1.10
+Explainability,Implemented,Grad-CAM cells
+External validation,Limited evidence,PlantDoc external-domain test
+Interface,Prototype,Probability + uncertainty + warning
+Provenance/licensing,Documented,"Pinned sources, citations and PlantDoc licence; PlantVillage terms flagged for verification"
+Jira/names/contributions,External action required,Must use real team records; not fabricated

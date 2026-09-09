@@ -1,0 +1,20 @@
+digraph Potato_components {
+	bgcolor=white dpi=200 rankdir=LR splines=ortho
+	node [fontname=Arial fontsize=10 shape=box style=rounded]
+	user [label="Researcher / notebook user"]
+	loader [label="PlantVillage/PlantDoc loader + audit"]
+	prep [label="Group-aware split + preprocessing"]
+	train [label="Training module
+3 model families"]
+	val [label="Validation gate"]
+	eval [label="Internal + external evaluation"]
+	store [label="Artifact store"]
+	ui [label="Optional Gradio prototype"]
+	user -> loader
+	loader -> prep
+	prep -> train
+	train -> val
+	val -> eval
+	eval -> store
+	store -> ui
+}

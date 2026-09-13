@@ -1,0 +1,4 @@
+Split,Total,Early_Blight,Late_Blight,Leaf_Groups
+Train,1400,700,700,350
+Validation,300,148,152,75
+Test,300,152,148,75

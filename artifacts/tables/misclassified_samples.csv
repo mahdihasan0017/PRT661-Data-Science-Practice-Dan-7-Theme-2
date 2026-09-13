@@ -1,0 +1,15 @@
+filepath,class_name,label,width,height,mode,extension,bytes,leaf_group,prob_late,pred
+/content/PlantVillage-Dataset/raw/color/Potato___Late_blight/ac42817b-71f9-4336-ad8b-bdfb4b27a64a___RS_LB 4782.JPG,Potato___Late_blight,1,256,256,RGB,.jpg,19014,Potato___Late_blight::191.0,0.050070807,0
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/65f6e2f1-300b-42f0-bcc8-467753411947___RS_Early.B 7591.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,17127,Potato___Early_blight::119.0,0.7047678,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/9cba8b9a-68a7-483a-bc77-6bacbbe7fc46___RS_Early.B 7588.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,17886,Potato___Early_blight::119.0,0.41258797,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/f686133a-e89a-4242-a52d-02f32ffd5275___RS_Early.B 8295.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,15599,Potato___Early_blight::187.0,0.7915539,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/a3fe02f0-6d49-4e9a-ba9a-ac26e8b65ca9___RS_Early.B 7560.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,18475,Potato___Early_blight::116.0,0.52128196,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/d998c614-017c-4f90-8e39-f8c500d21218___RS_Early.B 8292.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,15640,Potato___Early_blight::187.0,0.71614194,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/93eaec77-3e91-415a-a029-c054a42c18aa___RS_Early.B 8296.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,15141,Potato___Early_blight::187.0,0.7620104,1
+/content/PlantVillage-Dataset/raw/color/Potato___Late_blight/793aaf75-3085-4bbb-bace-33a9593c3c94___RS_LB 4847.JPG,Potato___Late_blight,1,256,256,RGB,.jpg,19138,Potato___Late_blight::198.0,0.25113747,0
+/content/PlantVillage-Dataset/raw/color/Potato___Late_blight/1e69b122-3920-4c4a-bfff-a18f3d6c3f89___RS_LB 4766.JPG,Potato___Late_blight,1,256,256,RGB,.jpg,13021,Potato___Late_blight::188.0,0.16056493,0
+/content/PlantVillage-Dataset/raw/color/Potato___Late_blight/a440233c-0ef8-408f-8ebb-1c12e8bc4464___RS_LB 4768.JPG,Potato___Late_blight,1,256,256,RGB,.jpg,13858,Potato___Late_blight::188.0,0.15586409,0
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/41f4502c-34aa-45a5-b593-7191f7a62f96___RS_Early.B 8774.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,18654,Potato___Early_blight::221.0,0.4116528,1
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/1797b5ac-ed8b-4b35-bd01-f8a14d34d6e1___RS_Early.B 8812.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,17440,Potato___Early_blight::224.0,0.75053513,1
+/content/PlantVillage-Dataset/raw/color/Potato___Late_blight/7260ba74-3187-4a62-8962-cbea92def2f2___RS_LB 4769.JPG,Potato___Late_blight,1,256,256,RGB,.jpg,12499,Potato___Late_blight::188.0,0.19182688,0
+/content/PlantVillage-Dataset/raw/color/Potato___Early_blight/72f7fa2c-974f-42af-99c3-fd4739d64050___RS_Early.B 8772.JPG,Potato___Early_blight,0,256,256,RGB,.jpg,19118,Potato___Early_blight::221.0,0.70614755,1

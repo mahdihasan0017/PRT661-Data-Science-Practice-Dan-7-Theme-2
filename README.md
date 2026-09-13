@@ -36,7 +36,7 @@ PlantVillage: 2,000 images / 500 leaf groups; 1,400/300/300 train/validation/tes
 | Partha Mallik | S392819 | Evaluation, visualisation and error analysis |
 | Datta Sai Kanaparthi | S385673 | Documentation, ethics review and final integration |
 
-Roles come from the supplied [team structure](planning/team_structure_responsibilities.pdf).
+Roles come from the supplied [team structure](https://github.com/mahdihasan0017/PRT661-Data-Science-Practice-Dan-7-Theme-2/blob/main/planning/TASK_ALLOCATION.md).
 
 ## Repository layout
 

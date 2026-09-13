@@ -5,9 +5,9 @@ Repository: [https://github.com/mahdihasan0017/PRT661-Data-Science-Practice-Dan-
 
 ## Start here
 
-1. Read [Assessment requirements and status](ASSESSMENT_REQUIREMENTS.md).
+1. Read [Assessment requirements and status].
 2. Open the [28-page consolidated Assessment 2 PDF](assessment_reports/Assessment_2_Consolidated_Progress_Report.pdf).
-3. Inspect the [executed notebook](notebooks/CODE.ipynb) and [saved model comparison](artifacts/tables/final_model_comparison.csv).
+3. Inspect the [executed notebook] and [saved model comparison](artifacts/tables/final_model_comparison.csv).
 4. Run the dependency-free integrity check from this repository root:
 
 ```console

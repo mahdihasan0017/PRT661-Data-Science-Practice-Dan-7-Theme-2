@@ -14,7 +14,7 @@ Repository: [https://github.com/mahdihasan0017/PRT661-Data-Science-Practice-Dan-
 python scripts/validate_repository.py
 ```
 
-For data acquisition, environment setup and execution, follow [REPRODUCIBILITY.md](REPRODUCIBILITY.md). No raw image dataset download is needed to inspect the saved evidence.
+For data acquisition, environment setup and execution, follow [REPRODUCIBILITY.md]. No raw image dataset download is needed to inspect the saved evidence.
 
 ## Recorded results
 

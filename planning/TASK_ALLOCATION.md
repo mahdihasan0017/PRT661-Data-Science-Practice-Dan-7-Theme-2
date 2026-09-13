@@ -4,10 +4,10 @@ The original Assessment 1 proposal defines the following five-member responsibil
 
 | Team member | Primary responsibility |
 |---|---|
-| Member 1 | Data acquisition and repository setup |
-| Member 2 | Preprocessing and exploratory analysis |
-| Member 3 | Model development and training |
-| Member 4 | Evaluation, visualisation and error analysis |
-| Member 5 | Documentation, ethics review and final integration |
+| Kavya Sree Sunkara / S386025 | Data acquisition and repository setup |
+| Sayed Mahidul Islam Rafel / S387949 | Preprocessing and exploratory analysis |
+| Mahdi Hasan Abdullah / S394885 | Model development and training |
+| Mahdi Hasan Abdullah / S394885 | Evaluation, visualisation and error analysis |
+| Datta Sai Kanaparthi / S385673 | Documentation, ethics review and final integration |
 
 Detailed task allocation and evidence paths are in `../project_management/task_register.csv`.

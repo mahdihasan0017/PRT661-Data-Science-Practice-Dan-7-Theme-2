@@ -1,0 +1,9 @@
+PlantVillage source: https://github.com/spMohanty/PlantVillage-Dataset.git
+Pinned commit: 7f7ecc7e1eaca78107e3affe7cb5abd9427e139a
+Citation: Mohanty, Hughes and Salathé (2016), Frontiers in Plant Science, DOI 10.3389/fpls.2016.01419.
+The pinned PlantVillage repository does not expose an explicit LICENSE file; verify terms with the data owner/institution before redistributing images.
+
+PlantDoc source: https://github.com/pratikkayal/PlantDoc-Dataset.git
+Pinned commit: 5467f6012d78d1c446145d5f582da6096f852ae8
+Licence stated by its repository: Creative Commons Attribution 4.0 International.
+Citation: Singh et al. (2020), PlantDoc, DOI 10.1145/3371158.3371196.

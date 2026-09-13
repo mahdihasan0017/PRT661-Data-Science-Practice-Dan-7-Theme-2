@@ -1,9 +1,0 @@
-Setting,Value
-Input,224x224 RGB; ImageNet normalisation
-Convolutions,3 blocks; 32/64/128 filters; 3x3; ReLU; 2x2 max-pool
-Regularisation,"Dropout=.30; train-only flips, rotation, random crop"
-Loss,BCEWithLogitsLoss; no weight (balanced)
-Optimiser,Adam; lr=.001
-Batch / maximum epochs,32 / 20
-Early stopping,Validation loss; patience=5; restore best weights
-Trainable parameters,"93,377"

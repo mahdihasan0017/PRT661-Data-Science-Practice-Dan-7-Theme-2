@@ -1,6 +1,0 @@
-Metric,Value
-Total parameters,93377.0
-Trainable parameters,93377.0
-Model size (MB),0.3601045608520508
-Inference latency (ms),0.818588039990118
-Throughput (images/sec),1221.6156981869317

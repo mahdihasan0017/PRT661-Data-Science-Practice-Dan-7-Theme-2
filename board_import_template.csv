@@ -1,0 +1,17 @@
+﻿Title,Assignee,Status,Milestone,Evidence
+Repository setup and pin PlantVillage/PlantDoc sources,Member 1,Done,M1,artifacts/documentation/DATA_PROVENANCE_AND_LICENSES.txt
+Inventory and provenance audit,Member 1,Done,M1,artifacts/tables/class_distribution.csv
+Construct official leaf-group IDs and overlap audit,Member 2,Done,M2,artifacts/tables/leaf_group_overlap_audit.csv
+Create group-disjoint train/validation/test split,Member 2,Done,M2,artifacts/tables/split_summary.csv
+Preprocessing and train-only augmentation,Member 2,Done,M2,artifacts/tables/custom_cnn_configuration.csv
+Train logistic baseline,Member 3,Done,M3,artifacts/models/baseline_logistic.joblib
+Train PotatoCNN,Member 3,Done,M3,artifacts/models/best_potato_cnn.pt
+Train/fine-tune MobileNetV2,Member 3,Done,M3,artifacts/models/best_mobilenet_v2.pt
+Lock validation checkpoints and thresholds,Member 4,Done,M4,artifacts/tables/validation_threshold_comparison.csv
+Frozen PlantVillage internal test,Member 4,Done,M4,artifacts/tables/final_model_comparison.csv
+Untouched PlantDoc external evaluation,Member 4,Done,M4,artifacts/tables/plantdoc_external_metrics.csv
+Calibration and robustness analyses,Member 4,Done,M4,artifacts/tables/robustness_results.csv
+"Ablation, segmentation, Grad-CAM and error review",Member 4,Done,M4,artifacts/tables/ablation_results.csv
+Efficiency profiling,Member 4,Done,M4,artifacts/tables/model_efficiency.csv
+"Final report, diagrams and reproducibility package",Member 5,Done,M5,assessment_reports/Final_Assessment_Report.pdf
+Add genuine project-board/commit collaboration evidence,Member 5,Backlog,M5,project_management/COLLABORATION_EVIDENCE.md

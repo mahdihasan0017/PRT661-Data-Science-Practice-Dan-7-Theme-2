@@ -1,0 +1,7 @@
+﻿milestone_id,name,deliverable,status
+M1,Foundation,"Source pinning, repository and data audit",Complete
+M2,Leakage-controlled data design,"Leaf grouping, group-disjoint split and preprocessing",Complete
+M3,Model development,"Logistic, PotatoCNN and MobileNetV2",Complete
+M4,Evaluation,"Internal + external testing, calibration, robustness and diagnostics",Complete
+M5,Delivery,"Final report, architecture and evidence packaging",Complete
+M6,Authentic PM evidence,"Add actual board URL, commits, PRs and collaboration screenshots",Team action required

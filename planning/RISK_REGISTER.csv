@@ -1,9 +1,0 @@
-Risk,Impact,Likelihood,Mitigation,Accountable_role
-Leaf/data leakage,High,High,Official group split before augmentation; hash audits,Data owner + reviewer
-Incorrect labels,High,Medium,Inspect errors using authoritative agricultural references; record corrections,Data reviewer
-Visual similarity,Medium,High,"Error analysis, Grad-CAM, confidence and agronomic consultation",Model reviewer
-Field domain shift,High,High,"PlantDoc test, perturbations, segmentation; no deployment claim",Evaluation owner
-Overconfidence,High,Medium,"Calibration, probabilities, uncertainty flag and human escalation",Safety reviewer
-Version/data loss,Medium,Medium,"Pinned commits, splits, checkpoints, environment and Drive copy",Repository owner
-Repository inactivity,Medium,Medium,"Weekly board review, stale-item escalation, backup owner",Team lead
-Uneven participation,High,Medium,Named issues/PRs/reviews checked each sprint,Team lead + all

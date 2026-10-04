@@ -1,0 +1,19 @@
+digraph Potato_deployment {
+	bgcolor=white dpi=200 rankdir=LR splines=ortho
+	node [fontname=Arial fontsize=10 shape=box style=rounded]
+	client [label="User browser"]
+	gradio [label="Local / Colab Gradio
+proof-of-concept UI"]
+	model [label="Locked trained model
++ preprocessing"]
+	result [label="Probability output
++ low-confidence warning"]
+	logs [label="Versioned research artifacts
+(no production logging)"]
+	client -> gradio
+	gradio -> model
+	model -> result
+	result -> client
+	model -> logs
+	fontsize=16 label="Research prototype deployment only - not production deployment" labelloc=t
+}

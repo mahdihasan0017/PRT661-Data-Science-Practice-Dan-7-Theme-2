@@ -1,0 +1,23 @@
+digraph Potato_storage {
+	bgcolor=white dpi=200 rankdir=TB splines=ortho
+	node [fontname=Arial fontsize=10 shape=folder]
+	repo [label="GitHub Repository"]
+	nb [label="notebooks/
+implemented Colab notebook"]
+	data [label="data/
+source/provenance notes; raw data not redistributed"]
+	art [label="artifacts/
+models • tables • figures • documentation"]
+	reports [label="assessment_reports/
+proposal + final searchable PDF/DOCX"]
+	design [label="architecture/
+diagrams + editable DOT sources"]
+	pm [label="planning/ + project_management/
+tasks • milestones • scope changes • evidence template"]
+	repo -> nb
+	repo -> data
+	repo -> art
+	repo -> reports
+	repo -> design
+	repo -> pm
+}
